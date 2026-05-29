@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Ashna 👋
 
-<!--
-**ashnasant/ashnasant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student at GEC Idukki
 
-Here are some ideas to get you started:
+I'm passionate about learning software development through hands-on projects and continuous improvement. Currently focused on strengthening my programming fundamentals and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- Developing BusID
+- Improving problem-solving skills
+- Learning Git & GitHub
+- Exploring Web Development
+
+---
+
+## 🛠 Skills
+
+### Languages
+- C
+- Java
+
+### Web Technologies
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Featured Project
+
+### 🚌 BusID
+
+A digital bus pass management system designed to simplify student verification and pass management.
+
+Features include:
+- Digital Bus Pass
+- Student Verification
+- Pass Status Tracking
+- User-Friendly Interface
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Version Control with Git
+- Modern Web Development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: github.com/ashnasant
+- LinkedIn: www.linkedin.com/in/ashna-santhosh
+
+---
+
+⭐ Always learning and building.
