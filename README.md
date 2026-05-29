@@ -1,64 +1,41 @@
 # Hi, I'm Ashna 👋
 
-🎓 B.Tech Computer Science Student at GEC Idukki
-
-I'm passionate about learning software development through hands-on projects and continuous improvement. Currently focused on strengthening my programming fundamentals and building practical applications.
+Computer Science student at GEC Idukki with an interest in software development and building practical solutions to real-world problems.
 
 ---
 
-## 🚀 Current Focus
+## About
 
-- Developing BusID
-- Improving problem-solving skills
-- Learning Git & GitHub
-- Exploring Web Development
+Currently focused on strengthening programming fundamentals while working on academic and personal projects.
+
+Interested in:
+
+- Software Development
+- Web Technologies
+- Problem Solving
+- Open Source
 
 ---
 
-## 🛠 Skills
+## Tech Stack
 
-### Languages
 - C
 - Java
-
-### Web Technologies
 - HTML
 - CSS
-
-### Tools
 - Git
 - GitHub
-- VS Code
 
 ---
 
-## 📂 Featured Project
+## Featured Project
 
-### 🚌 BusID
+### BusID
 
 A digital bus pass management system designed to simplify student verification and pass management.
 
-Features include:
-- Digital Bus Pass
-- Student Verification
-- Pass Status Tracking
-- User-Friendly Interface
-
 ---
 
-## 🌱 Currently Learning
+## Connect
 
-- Data Structures & Algorithms
-- Version Control with Git
-- Modern Web Development
-
----
-
-## 📫 Connect With Me
-
-- GitHub: github.com/ashnasant
 - LinkedIn: www.linkedin.com/in/ashnasant
-
----
-
-⭐ Always learning and building.
