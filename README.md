@@ -57,7 +57,7 @@ Features include:
 ## 📫 Connect With Me
 
 - GitHub: github.com/ashnasant
-- LinkedIn: www.linkedin.com/in/ashna-sant
+- LinkedIn: www.linkedin.com/in/ashnasant
 
 ---
 
