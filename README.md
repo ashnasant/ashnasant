@@ -1,16 +1,13 @@
-Computer Science student at GEC Idukki, interested in software development and problem-solving.
+Interested in technology, software development, and turning ideas into reality.
 
-About me
-- Learning software development
-- Exploring web technologies
-- Building projects and improving programming skills
+### currently exploring
+- Software development
+- Web technologies
+- Building projects & learning by doing
 
-Tech Stack
+### tech stack
+`C` · `Java` · `HTML` · `CSS` · `Git` · `GitHub`
 
-C Java HTML CSS Git GitHub
-
-Featured Project
-
-TrustRisk-WDS — A project focused on water distribution system risk assessment.
-
-BusID — A project related to bus identification.
+### projects
+- **TrustRisk-WDS** — Water distribution system risk assessment
+- **BusID** — Bus identification
